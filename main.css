@@ -1,0 +1,12 @@
+#collapsethree .accordion-body img {
+    display: none;
+}
+
+@media screen and (max-width= 768px){
+    #collapsethree .accordion-body a {
+        display: block;
+}
+    #collapsethree .accordion-body iframe {
+    display: none;
+}
+}

@@ -1,4 +1,4 @@
-#collapsethree .accordion-body img {
+#collapsethree .accordion-body a {
     display: none;
 }
 
@@ -9,4 +9,9 @@
     #collapsethree .accordion-body iframe {
     display: none;
 }
+}
+
+.container_carrusel{
+    width: 600px;
+    height: auto;
 }
